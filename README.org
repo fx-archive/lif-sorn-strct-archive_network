@@ -1,0 +1,7 @@
+Run for example as
+
+#+BEGIN_SRC 
+./run.sh 10 14 32GB
+#+END_SRC
+
+where 10 is the number simultaneous runs, 14 is the number of cores requested on the cluster, and 32GB is the requested memory.

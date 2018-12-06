@@ -1,0 +1,13 @@
+*~
+__pycache__/
+*.py[cod]
+*$py.class
+*.hdf5
+*.png
+*.jpg
+*.p
+*.pdf
+*#
+.#*
+logs/*
+analysis/*
